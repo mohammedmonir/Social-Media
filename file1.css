@@ -1,0 +1,131 @@
+
+
+.head{
+
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    font-size:50px;
+    text-shadow: 2px 2px 10px #4446D4
+    
+}
+.head1{
+    
+        font-family: 'Abril Fatface', cursive;
+        text-align: left;
+        font-size:30px;
+        text-shadow: 2px 2px 10px #F8F8F8
+        
+    }
+.headreg{
+    
+        font-family: 'Abril Fatface', cursive;
+        text-align: center;
+        font-size:50px;
+        text-shadow: 2px 2px 10px #4446D4
+        
+    }
+.login{
+
+    width:400px;
+    height:365px;
+    background:white;
+    margin:auto;
+    position: absolute;
+    top: 69px;
+    left: 99px;
+    border: 2px solid #9318CC;
+    
+}
+.reg{
+    
+        width:743px;
+        height:510px;
+        background:white;
+        margin:auto;
+        position: absolute;
+        top: 68px;
+        left: 515px;
+        border: 2px solid #9318CC;
+        
+    }
+  
+
+.in{
+
+    width: 327px;
+    margin-left: 37px;
+    margin-top: 16px;
+}
+.btn1{
+
+    width: 174px;
+    margin-left: 110px;
+    margin-top: 22px;
+    padding: 10px;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 20px;
+    height: 57px;
+    border-radius: 15px;
+}
+.btn2{
+
+    width:515px;
+}
+
+.img{
+
+    width: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -52px;
+    left: 152px;
+}
+.post{
+    background: #DBDBDB;
+    width:834px;
+    height: 220px;
+    margin: auto;
+
+
+
+}
+
+.post1{
+   position: relative;
+   top: 20px;
+
+}
+textarea.form-control{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right
+
+
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+ border-radius: 50%
+
+
+}
+.font{
+    font-family: 'Abril Fatface', cursive;
+}
+button, html input[type=button], input[type=reset], input[type=submit]{
+
+    margin-top:30px
+}
+
+.mfr
+{
+    margin-left:257px;
+
+
+}
+.dfr{
+    margin-top: 30px;
+    margin-left: 503px;
+    width: 400px;
+}
+
+
+   
